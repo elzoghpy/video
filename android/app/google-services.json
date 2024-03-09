@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604650316142",
+    "project_id": "note-fire-ff273",
+    "storage_bucket": "note-fire-ff273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604650316142:android:25d046d8e516144e18217f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_send"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzGz7P5lfsH4FgpFuPR97g1NLMwPfxCDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
